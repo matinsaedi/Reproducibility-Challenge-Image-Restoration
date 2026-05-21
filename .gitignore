@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch / training artifacts
+*.pth
+*.pt
+*.ckpt
+runs/
+logs/
+wandb/
+outputs/
+
+# Large data dirs (paths people commonly add locally; safe to ignore)
+data/
+datasets/
+GoPro/
+SIDD/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
