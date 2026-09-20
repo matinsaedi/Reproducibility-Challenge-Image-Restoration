@@ -1,4 +1,8 @@
 # Reproducibility Challenge: Simple Baselines for Image Restoration
+
+Course project for EECS 6322 (Neural Networks and Deep Learning), York University.
+Completed by Matin Bani Saedi and Shayan Ghalehdar.
+
 This repository contains our work for **York University’s EECS 6322: Neural Networks and Deep Learning Reproducibility Challenge**. We focus on the ECCV 2022 paper:
 
 > **Simple Baselines for Image Restoration**  
